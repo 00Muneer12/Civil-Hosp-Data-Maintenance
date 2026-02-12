@@ -3,7 +3,7 @@ Recommendation Engine
 Generates personalized health advice based on risk predictions
 """
 from typing import Dict
-from ..validators import get_risk_category
+from validators import get_risk_category
 
 
 class RecommendationEngine:

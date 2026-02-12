@@ -4,7 +4,7 @@ CRUD operations for database
 import sqlite3
 from typing import List, Dict, Optional
 from datetime import datetime
-from ..config import settings
+from config import settings
 
 
 class HealthDataCRUD:

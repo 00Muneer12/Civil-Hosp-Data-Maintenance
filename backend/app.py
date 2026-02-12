@@ -8,13 +8,13 @@ from datetime import datetime
 import uuid
 import logging
 
-from .config import settings
-from .models import HealthDataInput, HealthResponse
-from .validators import validate_health_metrics, calculate_bmi, get_risk_category
-from .ai.risk_predictor import risk_predictor
-from .ai.recommendation_engine import recommendation_engine
-from .db.database import init_db
-from .db.crud import db_crud
+from config import settings
+from models import HealthDataInput, HealthResponse
+from validators import validate_health_metrics, calculate_bmi, get_risk_category
+from ai.risk_predictor import risk_predictor
+from ai.recommendation_engine import recommendation_engine
+from db.database import init_db
+from db.crud import db_crud
 
 # Configure logging
 logging.basicConfig(level=settings.LOG_LEVEL)

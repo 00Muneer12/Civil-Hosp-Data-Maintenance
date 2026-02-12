@@ -4,7 +4,7 @@ Uses ML models and rule-based logic to predict health risks
 """
 import numpy as np
 from typing import Dict, Tuple
-from ..validators import calculate_bmi, parse_blood_pressure
+from validators import calculate_bmi, parse_blood_pressure
 
 
 class RiskPredictor:
