@@ -1,0 +1,9 @@
+Medicine_Code,Medicine_Name,Unit,Standard_Dosage,Common_Quantity,Unit_Cost_PKR,Critical_Stock_Level
+AME,Amlodipine (5mg),Tablets,5mg once daily,30,25,100
+MET,Metformin (500mg),Tablets,500mg 2-3x daily,60,15,100
+CHL,Chloroquine (250mg),Tablets,250mg daily,12,20,100
+ORS,ORS + Zinc,Sachets,1 sachet 3x daily,3,10,100
+PAN,Panadol (500mg),Tablets,500mg 4x daily,10,5,100
+CEF,Ceftriaxone (1g),Vials,1g daily,5,200,100
+SAL,Salbutamol Inhaler,Puffs,2 puffs 3x daily,1,150,100
+FOL,Folic Acid + Iron,Tablets,Once daily,30,18,100

@@ -1,0 +1,9 @@
+Disease_Name,Cases_Last_30Days,Daily_Average,Severity_Distribution,Trend,Alert_Status,Peak_Date,Most_Affected_Age,Key_Medicines
+Asthma,12,0.4,"Mild: 8, Moderate: 3, Severe: 1",Stable,Green,2026-02-11,"10-35 years",Salbutamol Inhaler
+Gastroenteritis,11,0.37,"Mild: 7, Moderate: 3, Severe: 1",Rising,Yellow,2026-02-12,"20-40 years",ORS + Zinc
+Type 2 Diabetes,13,0.43,"Mild: 5, Moderate: 4, Severe: 4",Stable,Green,2026-02-10,"45-75 years",Metformin (500mg)
+Malaria,11,0.37,"Mild: 5, Moderate: 5, Severe: 1",Moderate,Yellow,2026-02-08,"20-65 years",Chloroquine (250mg)
+Typhoid,11,0.37,"Mild: 6, Moderate: 2, Severe: 2",Rising,Yellow,2026-02-06,"10-75 years",Ceftriaxone (1g)
+URTI (Flu),11,0.37,"Mild: 5, Moderate: 2, Severe: 4",High,Orange,2026-02-12,"15-70 years",Panadol (500mg)
+Anemia,12,0.4,"Mild: 5, Moderate: 2, Severe: 5",Stable,Green,2026-02-05,"10-75 years",Folic Acid + Iron
+Hypertension,5,0.17,"Mild: 2, Moderate: 2, Severe: 1",Low,Green,2026-02-04,"5-40 years",Amlodipine (5mg)

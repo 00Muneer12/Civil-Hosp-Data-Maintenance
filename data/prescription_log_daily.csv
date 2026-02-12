@@ -1,0 +1,31 @@
+Transaction_ID,Date,Patient_ID,CNIC,Age,Gender,Disease,Prescribed_Medicine,Quantity,Severity,Doctor_Name,Status
+TX001,2026-02-12,1,42990-8281369-4,6,F,Asthma,Salbutamol Inhaler,1,Moderate,Dr. Ahmed,Completed
+TX002,2026-02-12,2,30161-3658505-6,21,M,Gastroenteritis,ORS + Zinc,3,Mild,Dr. Fatima,Completed
+TX003,2026-02-12,3,30995-2046797-7,37,M,URTI (Flu),Panadol (500mg),10,Mild,Dr. Hassan,Completed
+TX004,2026-02-11,4,41534-1564685-7,13,F,Asthma,Salbutamol Inhaler,1,Mild,Dr. Ahmed,Completed
+TX005,2026-02-11,5,31016-2007293-8,47,F,Malaria,Chloroquine (250mg),12,Mild,Dr. Ali,Completed
+TX006,2026-02-11,6,38529-3704238-5,52,F,Anemia,Folic Acid + Iron,30,Mild,Dr. Zainab,Completed
+TX007,2026-02-10,7,42185-2767640-4,43,F,URTI (Flu),Panadol (500mg),10,Severe,Dr. Hassan,Completed
+TX008,2026-02-10,8,36331-2285160-5,46,M,URTI (Flu),Panadol (500mg),10,Severe,Dr. Fatima,Completed
+TX009,2026-02-10,9,48446-6173036-1,30,F,Asthma,Salbutamol Inhaler,1,Mild,Dr. Ahmed,Completed
+TX010,2026-02-09,10,46216-7556168-8,54,M,Type 2 Diabetes,Metformin (500mg),60,Severe,Dr. Karim,Completed
+TX011,2026-02-09,11,32027-3230919-8,29,F,Malaria,Chloroquine (250mg),12,Moderate,Dr. Ali,Completed
+TX012,2026-02-09,12,45422-2737095-3,28,F,Asthma,Salbutamol Inhaler,1,Mild,Dr. Ahmed,Completed
+TX013,2026-02-08,13,42666-3231785-7,17,F,Malaria,Chloroquine (250mg),12,Mild,Dr. Ali,Completed
+TX014,2026-02-08,14,36184-4853339-7,64,M,Malaria,Chloroquine (250mg),12,Mild,Dr. Ali,Completed
+TX015,2026-02-08,15,38392-1996107-2,11,F,Anemia,Folic Acid + Iron,30,Mild,Dr. Zainab,Completed
+TX016,2026-02-07,16,49488-5545583-7,61,F,URTI (Flu),Panadol (500mg),10,Moderate,Dr. Hassan,Completed
+TX017,2026-02-07,17,32454-4747389-8,40,F,Gastroenteritis,ORS + Zinc,3,Moderate,Dr. Fatima,Completed
+TX018,2026-02-07,18,49115-4602279-6,49,F,Anemia,Folic Acid + Iron,30,Mild,Dr. Zainab,Completed
+TX019,2026-02-06,19,39762-1491234-5,24,M,Anemia,Folic Acid + Iron,30,Severe,Dr. Zainab,Completed
+TX020,2026-02-06,20,38110-6401218-1,69,F,Malaria,Chloroquine (250mg),12,Moderate,Dr. Ali,Completed
+TX021,2026-02-06,21,47412-7914550-7,12,M,Typhoid,Ceftriaxone (1g),5,Mild,Dr. Karim,Completed
+TX022,2026-02-05,22,42685-7906726-3,20,M,URTI (Flu),Panadol (500mg),10,Severe,Dr. Hassan,Completed
+TX023,2026-02-05,23,30206-8558158-2,18,M,Type 2 Diabetes,Metformin (500mg),60,Severe,Dr. Karim,Completed
+TX024,2026-02-05,24,47868-1769598-8,19,M,Anemia,Folic Acid + Iron,30,Severe,Dr. Zainab,Completed
+TX025,2026-02-04,25,49174-8971379-5,70,M,Gastroenteritis,ORS + Zinc,3,Mild,Dr. Fatima,Completed
+TX026,2026-02-04,26,42383-1874371-6,36,M,Typhoid,Ceftriaxone (1g),5,Moderate,Dr. Karim,Completed
+TX027,2026-02-04,27,44820-1973548-7,67,F,Typhoid,Ceftriaxone (1g),5,Moderate,Dr. Karim,Completed
+TX028,2026-02-03,28,49626-7216204-8,55,M,Type 2 Diabetes,Metformin (500mg),60,Moderate,Dr. Karim,Completed
+TX029,2026-02-03,29,46198-3959034-3,29,M,Anemia,Folic Acid + Iron,30,Severe,Dr. Zainab,Completed
+TX030,2026-02-03,30,49541-7706971-2,62,M,Gastroenteritis,ORS + Zinc,3,Moderate,Dr. Fatima,Completed

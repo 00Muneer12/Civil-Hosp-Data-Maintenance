@@ -1,0 +1,16 @@
+Disease_ID,Disease_Name,Category,OPD_Volume_Percentage,Typical_Age_Group,Severity_Distribution,Management_Type,Seasonal_Pattern
+DIS001,Gastroenteritis,Infectious Diseases,8,All Ages,"Mild: 40%, Moderate: 50%, Severe: 10%",OPD,Year-round
+DIS002,Malaria,Infectious Diseases,7,5-50 years,"Mild: 20%, Moderate: 60%, Severe: 20%",OPD/Emergency,May-November
+DIS003,Typhoid,Infectious Diseases,5,Pediatric-Adult,"Mild: 10%, Moderate: 70%, Severe: 20%",OPD/Admission,March-May
+DIS004,Upper Respiratory Tract Infection (URTI),Respiratory,15,All Ages,"Mild: 70%, Moderate: 25%, Severe: 5%",OPD,Oct-March
+DIS005,Asthma,Respiratory,8,"5-45 years","Mild: 50%, Moderate: 35%, Severe: 15%",OPD,Winter
+DIS006,COPD,Respiratory,6,"40+ years","Mild: 30%, Moderate: 50%, Severe: 20%",OPD,Winter
+DIS007,Diabetes Mellitus,Non-Communicable,12,"40+ years","Mild: 60%, Moderate: 35%, Severe: 5%",Maintenance,Year-round
+DIS008,Hypertension,Non-Communicable,10,"35+ years","Mild: 70%, Moderate: 25%, Severe: 5%",Maintenance,Year-round
+DIS009,Pneumonia,Respiratory,6,"Pediatric, 60+ years","Mild: 20%, Moderate: 50%, Severe: 30%",OPD/Admission,Oct-March
+DIS010,Acute Bronchitis,Respiratory,5,"All Ages","Mild: 60%, Moderate: 35%, Severe: 5%",OPD,Winter
+DIS011,Whooping Cough,Infectious Diseases,3,Pediatric,"Mild: 30%, Moderate: 50%, Severe: 20%",OPD,Year-round
+DIS012,Measles,Infectious Diseases,2,Pediatric,"Mild: 40%, Moderate: 45%, Severe: 15%",OPD,Winter
+DIS013,Protein-Energy Malnutrition,Non-Communicable,4,Pediatric,"Mild: 50%, Moderate: 40%, Severe: 10%",OPD,Year-round
+DIS014,Anemia,Non-Communicable,5,Women/Pediatric,"Mild: 65%, Moderate: 30%, Severe: 5%",OPD,Year-round
+DIS015,Dengue Fever,Infectious Diseases,4,"5-50 years","Mild: 30%, Moderate: 60%, Severe: 10%",OPD/Admission,Aug-Oct

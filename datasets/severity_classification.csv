@@ -1,0 +1,5 @@
+Severity_ID,Severity_Level,Color_Code,Definition,Intervention_Type,Average_Waiting_Time_Minutes,Referral_Required,Examples
+SEV001,Mild,Green,"Simple infections, seasonal flu, minor injuries",Outpatient Management,15-30,No,"Common Cold, Minor Cuts, Mild Allergies, Cough"
+SEV002,Moderate,Yellow,"Stable chronic conditions requiring monitoring or acute mild complications",Monitored Outpatient,30-60,Sometimes,"High BP, Diabetes, Dehydration, Mild Gastroenteritis"
+SEV003,Severe,Orange,"Conditions requiring immediate intervention and close monitoring",Emergency Department,Immediate,Yes,"High Fever, Respiratory Distress, Severe Dehydration, Abdominal Pain"
+SEV004,Critical,Red,"Life-threatening emergencies requiring intensive care",Emergency Room,Immediate,Yes,"Cardiac Emergency, Stroke, Severe Trauma, Sepsis"

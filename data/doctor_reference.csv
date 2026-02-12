@@ -1,0 +1,7 @@
+Doctor_ID,Doctor_Name,Specialization,Contact,Availability,Total_Patients,Total_Prescriptions
+DOC001,Dr. Ahmed,General Practitioner,3001234567,Full-time,25,28
+DOC002,Dr. Fatima,Pediatrician,3009876543,Full-time,22,24
+DOC003,Dr. Hassan,Internal Medicine,3005551234,Full-time,18,20
+DOC004,Dr. Ali,Infectious Disease,3003334567,Part-time,15,17
+DOC005,Dr. Zainab,Hematology,3007779999,Full-time,12,14
+DOC006,Dr. Karim,Family Medicine,3002225555,Full-time,8,12

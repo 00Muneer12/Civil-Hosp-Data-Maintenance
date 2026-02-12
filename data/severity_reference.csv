@@ -1,0 +1,5 @@
+Severity_Code,Severity_Level,Color_Code,Urgency,Average_Wait_Minutes,Risk_Level,Action_Priority
+M,Mild,Green,Low,15,1,Routine
+MOD,Moderate,Yellow,Medium,30,2,Monitor
+SEV,Severe,Orange,High,15,3,Urgent
+CRI,Critical,Red,Immediate,5,4,Emergency

@@ -1,0 +1,11 @@
+KPI_ID,KPI_Name,Current_Value,Target_Value,Status,Trend,Alert_Level,Last_Updated
+KPI001,Total Daily Patients,3.3,5,Below Target,Stable,Green,2026-02-12
+KPI002,Prescription Accuracy,97%,99%,Below Target,Rising,Yellow,2026-02-12
+KPI003,Stock Availability,87.5%,95%,Below Target,Declining,Yellow,2026-02-12
+KPI004,Critical Cases Handled,100%,100%,On Target,Stable,Green,2026-02-12
+KPI005,ORS Stock Days Remaining,31,45,Below Target,Declining,Yellow,2026-02-12
+KPI006,Average Wait Time,22 min,15 min,Below Target,Rising,Yellow,2026-02-12
+KPI007,Disease Outbreak Incidents,3,"<2",Above Target,Rising,Orange,2026-02-12
+KPI008,Doctor Utilization Rate,84%,80%,Above Target,Stable,Green,2026-02-12
+KPI009,Patient Satisfaction,92%,95%,Below Target,Stable,Yellow,2026-02-12
+KPI010,Inventory Turnover,6.2,>6,Above Target,Stable,Green,2026-02-12

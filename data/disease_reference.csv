@@ -1,0 +1,9 @@
+Disease_Code,Disease_Name,ICD_Code,Treatment_Protocol,Most_Effective_Medicine
+AST,Asthma,J45,Bronchodilator + Corticosteroid,Salbutamol Inhaler
+GAS,Gastroenteritis,A08.4,Hydration + Electrolyte,ORS + Zinc
+DIA,Type 2 Diabetes,E11,Anti-diabetic,Metformin (500mg)
+MAL,Malaria,B54,Antimalarial,Chloroquine (250mg)
+TYP,Typhoid,A01,Antibiotic,Ceftriaxone (1g)
+URI,URTI (Flu),J06,Symptomatic,Panadol (500mg)
+ANE,Anemia,D50,Iron + Folic Acid,Folic Acid + Iron
+HYP,Hypertension,I10,Antihypertensive,Amlodipine (5mg)

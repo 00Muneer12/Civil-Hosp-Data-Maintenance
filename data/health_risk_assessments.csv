@@ -1,0 +1,6 @@
+Assessment_ID,Date,Patient_ID,CNIC,Age,Weight_kg,Height_cm,BMI,Systolic_BP,Diastolic_BP,Cholesterol_mg_dL,Glucose_mg_dL,Exercise_Frequency,Smoking_Status,Diet_Quality,Alcohol_Consumption,Diabetes_Risk,Heart_Disease_Risk,Hypertension_Risk,Cholesterol_Risk,Overall_Risk_Level,Primary_Recommendation,Secondary_Recommendation,Doctor_Name,Status
+A001,2026-02-12,P001,34521621987654,45,75.5,172,25.5,120,80,180,95,3x/week,No,Good,Moderate,35,28,22,45,Low,Maintain current lifestyle and regular check-ups,Monitor cholesterol levels,Dr. Ahmed,Complete
+A002,2026-02-12,P002,45632178901234,62,92.0,165,33.8,145,95,245,130,1x/week,Yes,Poor,Heavy,72,58,65,78,High,Consult doctor for lifestyle modification program,Reduce sodium and increase exercise,Dr. Fatima,Complete
+A003,2026-02-12,P003,23456789012345,38,68.0,170,23.5,130,85,200,105,5x/week,No,Excellent,None,42,35,28,52,Moderate,Reduce salt intake and increase daily walks,Monitor blood pressure weekly,Dr. Hassan,Complete
+A004,2026-02-12,P004,56789012345678,55,85.0,168,30.1,155,98,280,125,2x/week,Former,Fair,Light,68,52,58,82,High,Start medically supervised weight loss program,Increase cardiovascular exercise,Dr. Aisha,Complete
+A005,2026-02-12,P005,78901234567890,48,70.0,175,22.9,125,82,190,100,4x/week,No,Good,Moderate,38,32,25,48,Low,Maintain current healthy lifestyle,Annual health screening recommended,Dr. Ahmed,Complete

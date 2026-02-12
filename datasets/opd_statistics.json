@@ -1,0 +1,172 @@
+{
+    "hospital_name": "Civil Hospital",
+    "data_period": "Annual",
+    "total_opd_patients": 45000,
+    "severity_distribution": {
+        "mild": {
+            "percentage": 45,
+            "patient_count": 20250,
+            "color_code": "Green",
+            "description": "Routine cases requiring basic outpatient care"
+        },
+        "moderate": {
+            "percentage": 35,
+            "patient_count": 15750,
+            "color_code": "Yellow",
+            "description": "Stable chronic conditions and acute mild complications"
+        },
+        "severe": {
+            "percentage": 15,
+            "patient_count": 6750,
+            "color_code": "Orange",
+            "description": "Cases requiring immediate intervention and close monitoring"
+        },
+        "critical": {
+            "percentage": 5,
+            "patient_count": 2250,
+            "color_code": "Red",
+            "description": "Life-threatening emergencies requiring ER/ICU"
+        }
+    },
+    "disease_wise_distribution": {
+        "big_three_percentage": 60,
+        "infectious_diseases": {
+            "percentage": 24,
+            "patient_count": 10800,
+            "major_conditions": [
+                "Gastroenteritis",
+                "Malaria",
+                "Typhoid",
+                "Dengue Fever",
+                "Whooping Cough"
+            ]
+        },
+        "respiratory": {
+            "percentage": 20,
+            "patient_count": 9000,
+            "major_conditions": [
+                "URTI",
+                "Asthma",
+                "COPD",
+                "Pneumonia",
+                "Acute Bronchitis"
+            ]
+        },
+        "non_communicable": {
+            "percentage": 16,
+            "patient_count": 7200,
+            "major_conditions": [
+                "Diabetes Mellitus",
+                "Hypertension",
+                "Anemia",
+                "Protein-Energy Malnutrition"
+            ]
+        }
+    },
+    "medicine_wise_patterns": {
+        "top_antibiotics": [
+            {
+                "rank": 1,
+                "medicine": "Amoxicillin/Clavulanate",
+                "usage_percentage": 18,
+                "indications": "Respiratory infections, Skin infections, UTI"
+            },
+            {
+                "rank": 2,
+                "medicine": "Ceftriaxone",
+                "usage_percentage": 12,
+                "indications": "Severe infections, Pneumonia, Meningitis"
+            },
+            {
+                "rank": 3,
+                "medicine": "Azithromycin",
+                "usage_percentage": 10,
+                "indications": "Respiratory infections, Atypical Pneumonia"
+            }
+        ],
+        "top_maintenance_medicines": [
+            {
+                "rank": 1,
+                "medicine": "Metformin",
+                "usage_percentage": 14,
+                "indication": "Type 2 Diabetes Mellitus"
+            },
+            {
+                "rank": 2,
+                "medicine": "Amlodipine",
+                "usage_percentage": 11,
+                "indication": "Hypertension, Angina"
+            },
+            {
+                "rank": 3,
+                "medicine": "Lisinopril",
+                "usage_percentage": 8,
+                "indication": "Hypertension, Heart Failure"
+            }
+        ],
+        "top_pediatric_medicines": [
+            {
+                "rank": 1,
+                "medicine": "Paracetamol (Panadol) Syrup",
+                "usage_percentage": 16,
+                "indication": "Fever, Mild Pain"
+            },
+            {
+                "rank": 2,
+                "medicine": "ORS (Oral Rehydration Solution)",
+                "usage_percentage": 13,
+                "indication": "Dehydration, Gastroenteritis"
+            },
+            {
+                "rank": 3,
+                "medicine": "Amoxicillin Suspension",
+                "usage_percentage": 12,
+                "indication": "Respiratory Infections, Skin Infections"
+            }
+        ]
+    },
+    "gender_distribution": {
+        "male_percentage": 52,
+        "female_percentage": 48
+    },
+    "age_group_distribution": {
+        "pediatric_0_5": {
+            "percentage": 15,
+            "primary_conditions": "Acute Respiratory Infections, Gastroenteritis, Immunization"
+        },
+        "pediatric_5_14": {
+            "percentage": 12,
+            "primary_conditions": "URTI, Tuberculosis, Malnutrition"
+        },
+        "adult_15_35": {
+            "percentage": 22,
+            "primary_conditions": "Respiratory Infections, Malaria, Typhoid"
+        },
+        "adult_35_60": {
+            "percentage": 35,
+            "primary_conditions": "Hypertension, Diabetes, Respiratory Disease"
+        },
+        "elderly_60_plus": {
+            "percentage": 16,
+            "primary_conditions": "COPD, Heart Disease, Diabetes Complications"
+        }
+    },
+    "seasonal_patterns": {
+        "winter_Oct_Mar": {
+            "surge_percentage": 35,
+            "dominant_conditions": "Respiratory Infections, Asthma, COPD Exacerbation"
+        },
+        "summer_Apr_Jun": {
+            "surge_percentage": 20,
+            "dominant_conditions": "Gastroenteritis, Dehydration, Heat-related Illness"
+        },
+        "monsoon_Jul_Sep": {
+            "surge_percentage": 30,
+            "dominant_conditions": "Malaria, Dengue, Typhoid, Waterborne Diseases"
+        },
+        "fall_rest_of_year": {
+            "surge_percentage": 15,
+            "dominant_conditions": "Chronic Disease Management, Routine Outpatient"
+        }
+    }
+}

@@ -1,0 +1,101 @@
+Patient_ID,CNIC,Age,Gender,Disease,Prescribed_Medicine,Severity
+1,42990-8281369-4,6,F,Asthma,Salbutamol Inhaler,Moderate
+2,30161-3658505-6,21,M,Gastroenteritis,ORS + Zinc,Mild
+3,30995-2046797-7,37,M,URTI (Flu),Panadol (500mg),Mild
+4,41534-1564685-7,13,F,Asthma,Salbutamol Inhaler,Mild
+5,31016-2007293-8,47,F,Malaria,Chloroquine (250mg),Mild
+6,38529-3704238-5,52,F,Anemia,Folic Acid + Iron,Mild
+7,42185-2767640-4,43,F,URTI (Flu),Panadol (500mg),Severe
+8,36331-2285160-5,46,M,URTI (Flu),Panadol (500mg),Severe
+9,48446-6173036-1,30,F,Asthma,Salbutamol Inhaler,Mild
+10,46216-7556168-8,54,M,Type 2 Diabetes,Metformin (500mg),Severe
+11,32027-3230919-8,29,F,Malaria,Chloroquine (250mg),Moderate
+12,45422-2737095-3,28,F,Asthma,Salbutamol Inhaler,Mild
+13,42666-3231785-7,17,F,Malaria,Chloroquine (250mg),Mild
+14,36184-4853339-7,64,M,Malaria,Chloroquine (250mg),Mild
+15,38392-1996107-2,11,F,Anemia,Folic Acid + Iron,Mild
+16,49488-5545583-7,61,F,URTI (Flu),Panadol (500mg),Moderate
+17,32454-4747389-8,40,F,Gastroenteritis,ORS + Zinc,Moderate
+18,49115-4602279-6,49,F,Anemia,Folic Acid + Iron,Mild
+19,39762-1491234-5,24,M,Anemia,Folic Acid + Iron,Severe
+20,38110-6401218-1,69,F,Malaria,Chloroquine (250mg),Moderate
+21,47412-7914550-7,12,M,Typhoid,Ceftriaxone (1g),Mild
+22,42685-7906726-3,20,M,URTI (Flu),Panadol (500mg),Severe
+23,30206-8558158-2,18,M,Type 2 Diabetes,Metformin (500mg),Severe
+24,47868-1769598-8,19,M,Anemia,Folic Acid + Iron,Severe
+25,49174-8971379-5,70,M,Gastroenteritis,ORS + Zinc,Mild
+26,42383-1874371-6,36,M,Typhoid,Ceftriaxone (1g),Moderate
+27,44820-1973548-7,67,F,Typhoid,Ceftriaxone (1g),Moderate
+28,49626-7216204-8,55,M,Type 2 Diabetes,Metformin (500mg),Moderate
+29,46198-3959034-3,29,M,Anemia,Folic Acid + Iron,Severe
+30,49541-7706971-2,62,M,Gastroenteritis,ORS + Zinc,Moderate
+31,40921-3539448-5,67,F,URTI (Flu),Panadol (500mg),Severe
+32,32693-9306461-6,66,F,Hypertension,Amlodipine (5mg),Severe
+33,48047-5270070-4,26,M,Gastroenteritis,ORS + Zinc,Severe
+34,41494-3484413-1,62,F,Type 2 Diabetes,Metformin (500mg),Mild
+35,31306-6697469-1,62,M,Typhoid,Ceftriaxone (1g),Mild
+36,39474-3548421-8,53,M,URTI (Flu),Panadol (500mg),Mild
+37,35530-2954109-5,56,F,Gastroenteritis,ORS + Zinc,Severe
+38,43545-8205547-8,46,M,Hypertension,Amlodipine (5mg),Mild
+39,31998-2384250-6,74,F,Hypertension,Amlodipine (5mg),Moderate
+40,47879-7409907-1,19,F,Malaria,Chloroquine (250mg),Mild
+41,48237-1039353-4,58,M,Malaria,Chloroquine (250mg),Moderate
+42,47675-8654909-7,64,M,Asthma,Salbutamol Inhaler,Severe
+43,41649-6725570-1,12,F,Type 2 Diabetes,Metformin (500mg),Severe
+44,31636-8072695-1,57,M,Anemia,Folic Acid + Iron,Mild
+45,47082-1813168-2,64,M,Gastroenteritis,ORS + Zinc,Severe
+46,34737-4782875-6,9,M,Gastroenteritis,ORS + Zinc,Moderate
+47,30854-6595108-8,72,F,Anemia,Folic Acid + Iron,Mild
+48,37392-7609280-3,10,F,Asthma,Salbutamol Inhaler,Moderate
+49,43949-2561729-5,51,M,Typhoid,Ceftriaxone (1g),Mild
+50,48091-6478047-6,59,F,Typhoid,Ceftriaxone (1g),Mild
+51,34931-8103230-6,44,F,Asthma,Salbutamol Inhaler,Moderate
+52,32327-7659908-4,56,F,Typhoid,Ceftriaxone (1g),Mild
+53,37777-4080389-6,20,F,Malaria,Chloroquine (250mg),Mild
+54,31930-1110078-8,17,F,Gastroenteritis,ORS + Zinc,Mild
+55,39339-2659066-6,34,M,Asthma,Salbutamol Inhaler,Mild
+56,48895-8355740-3,23,M,Gastroenteritis,ORS + Zinc,Mild
+57,47043-8473915-3,21,M,Anemia,Folic Acid + Iron,Moderate
+58,44243-5135314-2,67,F,Hypertension,Amlodipine (5mg),Moderate
+59,31986-4896830-3,23,F,Malaria,Chloroquine (250mg),Moderate
+60,41411-3755423-7,62,M,URTI (Flu),Panadol (500mg),Severe
+61,48227-1071295-7,59,F,Malaria,Chloroquine (250mg),Moderate
+62,32385-8613287-1,66,M,Asthma,Salbutamol Inhaler,Moderate
+63,31802-6251035-1,27,M,URTI (Flu),Panadol (500mg),Mild
+64,36616-9763313-7,13,M,Hypertension,Amlodipine (5mg),Mild
+65,46646-4504473-8,16,F,Asthma,Salbutamol Inhaler,Mild
+66,39208-5341747-4,5,F,Type 2 Diabetes,Metformin (500mg),Mild
+67,43168-1686976-8,62,M,Gastroenteritis,ORS + Zinc,Moderate
+68,44589-9506404-8,5,M,Hypertension,Amlodipine (5mg),Mild
+69,37158-7561000-3,38,M,Gastroenteritis,ORS + Zinc,Severe
+70,39874-4674515-8,52,M,Typhoid,Ceftriaxone (1g),Severe
+71,42183-9767088-8,5,F,Type 2 Diabetes,Metformin (500mg),Moderate
+72,35539-1501157-8,20,F,Type 2 Diabetes,Metformin (500mg),Mild
+73,45586-6106799-6,65,M,Hypertension,Amlodipine (5mg),Mild
+74,35592-5327576-5,68,M,Type 2 Diabetes,Metformin (500mg),Severe
+75,32961-3799487-6,67,F,URTI (Flu),Panadol (500mg),Severe
+76,41969-3100021-3,73,F,Type 2 Diabetes,Metformin (500mg),Mild
+77,47340-7928040-4,26,M,Gastroenteritis,ORS + Zinc,Moderate
+78,35699-8328141-5,71,M,Gastroenteritis,ORS + Zinc,Mild
+79,33987-6134207-8,30,M,Asthma,Salbutamol Inhaler,Mild
+80,43446-6853584-8,20,F,Gastroenteritis,ORS + Zinc,Mild
+81,41296-5301754-3,55,F,Asthma,Salbutamol Inhaler,Mild
+82,42757-2983509-6,61,F,Gastroenteritis,ORS + Zinc,Severe
+83,48077-2521701-6,33,M,URTI (Flu),Panadol (500mg),Moderate
+84,33436-7105525-8,73,M,Anemia,Folic Acid + Iron,Mild
+85,49738-4438618-2,51,F,Asthma,Salbutamol Inhaler,Moderate
+86,45636-3457184-4,66,F,Malaria,Chloroquine (250mg),Severe
+87,37022-2418175-1,73,M,Typhoid,Ceftriaxone (1g),Severe
+88,37996-8265795-3,20,F,Hypertension,Amlodipine (5mg),Mild
+89,41312-3727423-1,52,F,Gastroenteritis,ORS + Zinc,Mild
+90,48589-4451356-6,43,M,Type 2 Diabetes,Metformin (500mg),Mild
+91,33444-3927109-3,37,F,Anemia,Folic Acid + Iron,Mild
+92,31060-9519981-5,27,M,Gastroenteritis,ORS + Zinc,Mild
+93,46990-7214624-4,14,M,Type 2 Diabetes,Metformin (500mg),Moderate
+94,30190-5335868-5,73,M,Typhoid,Ceftriaxone (1g),Mild
+95,32975-3215167-3,38,M,Typhoid,Ceftriaxone (1g),Mild
+96,31816-1688105-7,56,M,Typhoid,Ceftriaxone (1g),Mild
+97,30569-2414466-8,14,M,Type 2 Diabetes,Metformin (500mg),Mild
+98,49117-9106609-8,23,M,Gastroenteritis,ORS + Zinc,Mild
+99,34014-8613269-7,62,F,Typhoid,Ceftriaxone (1g),Mild
+100,33009-2105534-3,5,M,URTI (Flu),Panadol (500mg),Mild

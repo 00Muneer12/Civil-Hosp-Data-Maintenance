@@ -1,0 +1,9 @@
+Medicine_ID,Medicine_Name,Current_Stock,Reorder_Level,Stock_Status,Alert_Color,Days_to_Stockout,Recommended_Order_Qty,Urgency,Action_Required
+MED001,Amlodipine (5mg),420,100,SAFE,Green,42,0,Low,None
+MED002,Metformin (500mg),370,100,SAFE,Green,37,0,Low,None
+MED003,Chloroquine (250mg),390,100,SAFE,Green,39,0,Low,None
+MED004,ORS + Zinc,310,100,CAUTION,Yellow,31,200,Medium,"Monitor closely - 31 days to stockout"
+MED005,Panadol (500mg),380,100,SAFE,Green,38,0,Low,None
+MED006,Ceftriaxone (1g),370,100,SAFE,Green,37,0,Low,None
+MED007,Salbutamol Inhaler,370,100,SAFE,Green,37,0,Low,None
+MED008,Folic Acid + Iron,390,100,SAFE,Green,39,0,Low,None

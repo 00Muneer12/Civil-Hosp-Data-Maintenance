@@ -1,0 +1,9 @@
+Medicine_Name,Initial_Stock,Current_Stock,Unit,Reorder_Level
+Amlodipine (5mg),500,420,Tablets,100
+Metformin (500mg),500,370,Tablets,100
+Chloroquine (250mg),500,390,Tablets,100
+ORS + Zinc,500,310,Sachets,100
+Panadol (500mg),500,380,Tablets,100
+Ceftriaxone (1g),500,370,Vials,100
+Salbutamol Inhaler,500,370,Puffs,100
+Folic Acid + Iron,500,390,Tablets,100

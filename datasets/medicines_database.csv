@@ -1,0 +1,21 @@
+Medicine_ID,Medicine_Name,Generic_Name,Category,Typical_Use_Cases,Dosage_Form,Age_Group,Severity_Level,Frequency_in_OPD_Percentage
+MED001,Amoxicillin,Amoxicillin,Antibiotic,"Respiratory Infections, Skin Infections, UTI",Tablet/Suspension,All Ages,"Mild, Moderate",18
+MED002,Ceftriaxone,Ceftriaxone,Antibiotic,"Severe Infections, Pneumonia, Meningitis",Injectable,All Ages,"Moderate, Severe",12
+MED003,Azithromycin,Azithromycin,Antibiotic,"Respiratory Infections, Atypical Pneumonia",Tablet/Suspension,All Ages,"Mild, Moderate",10
+MED004,Ciprofloxacin,Ciprofloxacin,Antibiotic,"UTI, GI Infections, Respiratory Infections",Tablet,Adult,"Mild, Moderate",8
+MED005,Metformin,Metformin,Anti-Diabetic,"Type 2 Diabetes Mellitus",Tablet,Adult,"Mild, Moderate",14
+MED006,Amlodipine,Amlodipine,Antihypertensive,"Hypertension, Angina",Tablet,Adult,"Mild, Moderate",11
+MED007,Lisinopril,Lisinopril,ACE Inhibitor,"Hypertension, Heart Failure",Tablet,Adult,"Mild, Moderate",8
+MED008,Paracetamol (Panadol),Paracetamol,Analgesic/Antipyretic,"Fever, Mild Pain",Syrup/Tablet,All Ages,"Mild, Moderate",16
+MED009,Ibuprofen,Ibuprofen,NSAID,"Pain, Fever, Inflammation",Tablet/Syrup,All Ages,"Mild, Moderate",9
+MED010,ORS (Oral Rehydration Solution),ORS,Electrolyte,"Dehydration, Gastroenteritis",Powder/Solution,Pediatric,"Mild, Moderate",13
+MED011,Omeprazole,Omeprazole,Proton Pump Inhibitor,"Acid Reflux, GERD, Ulcers",Tablet,Adult,"Mild, Moderate",7
+MED012,Ranitidine,Ranitidine,H2 Blocker,"Acid Reflux, Peptic Ulcer",Tablet,Adult,"Mild, Moderate",5
+MED013,Salbutamol (Albuterol),Salbutamol,Bronchodilator,"Asthma, COPD, Wheezing",Inhaler,All Ages,"Mild, Moderate, Severe",8
+MED014,Montelukast,Montelukast,Leukotriene Inhibitor,"Asthma, Allergic Rhinitis",Tablet,Pediatric,"Mild, Moderate",6
+MED015,Insulin,Insulin,Anti-Diabetic,"Type 1 Diabetes, Severe Hyperglycemia",Injectable,All Ages,"Moderate, Severe",9
+MED016,Chloroquine,Chloroquine,Antimalarial,"Malaria",Tablet,All Ages,"Mild, Moderate",7
+MED017,Artemether,Artemether,Antimalarial,"Severe Malaria",Injectable,All Ages,"Severe",4
+MED018,Ciprofloxacin,Ciprofloxacin,Antibiotic,"Typhoid, Bacterial Infections",Tablet,Adult,"Mild, Moderate",6
+MED019,Vitamin Supplements,Various,Vitamin,"Malnutrition, Anemia",Tablet/Syrup,All Ages,"Mild",8
+MED020,Iron Supplement,Ferrous Sulfate,Hematinics,"Anemia",Tablet/Syrup,All Ages,"Mild, Moderate",7

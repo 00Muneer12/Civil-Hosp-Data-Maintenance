@@ -1,0 +1,21 @@
+Patient_ID,Registration_Date,Age,Gender,Primary_Diagnosis,Disease_Category,Severity_Level,Assigned_Doctor,Medicine_Prescribed,Dosage,Duration_Days,Vital_Signs_Note,OPD_Visit_Outcome,Referral_Status
+PAT001,2024-01-15,8,M,Upper Respiratory Tract Infection,Respiratory,Mild,Dr. Ahmed,Amoxicillin + Paracetamol,500mg + 250mg,7,"BP: 100/60, Temp: 99.2F, HR: 88",Discharged,No
+PAT002,2024-01-15,45,F,Hypertension,Non-Communicable,Moderate,Dr. Fatima,Amlodipine + Lisinopril,5mg + 10mg,30,"BP: 160/95, HR: 82",Stable Follow-up,No
+PAT003,2024-01-16,6,M,Gastroenteritis,Infectious Diseases,Mild,Dr. Hassan,ORS + Paracetamol,1L/day + 250mg,3,"BP: 95/55, Dehydration: Mild",Discharged,No
+PAT004,2024-01-16,52,M,Type 2 Diabetes,Non-Communicable,Moderate,Dr. Ali,Metformin + Diet Counseling,1000mg,30,"FBS: 180, RBS: 220, HR: 78",Scheduled Revisit,No
+PAT005,2024-01-17,34,F,Asthma Exacerbation,Respiratory,Moderate,Dr. Zainab,Salbutamol Inhaler + Montelukast,2 puffs + 10mg,14,"BP: 120/75, SpO2: 95%, HR: 92",Discharged,No
+PAT006,2024-01-17,72,M,COPD with Fever,Respiratory,Severe,Dr. Karim,Ceftriaxone IV + Salbutamol,2g + Inhaler,7,"BP: 145/88, SpO2: 88%, Temp: 102F","Referred to Medicine Ward",Yes
+PAT007,2024-01-18,3,F,Acute Diarrhea,Infectious Diseases,Mild,Dr. Aisha,ORS + Zinc,500ml/day + 20mg,5,"Temp: 98.6F, Dehydration: Minimal",Discharged,No
+PAT008,2024-01-18,28,M,Malaria (Suspected),Infectious Diseases,Moderate,Dr. Rashid,Artemether + Paracetamol,1.2mg + 500mg,7,"BP: 110/70, Temp: 103.5F, HR: 95",Admitted for Monitoring,Yes
+PAT009,2024-01-19,41,F,Type 2 Diabetes + HTN,Non-Communicable,Moderate,Dr. Saira,Metformin + Amlodipine,1000mg + 5mg,30,"BP: 155/90, FBS: 175, HR: 80",Stable Follow-up,No
+PAT010,2024-01-19,67,M,Acute Myocardial Infarction,Non-Communicable,Critical,Dr. Tariq,"High-dose Medications (Aspirin, Clopidogrel, Heparin)",Multiple,Ongoing,"BP: 98/60, SpO2: 92%, HR: 115","Referred to ICU/Cardiology",Yes
+PAT011,2024-01-20,9,F,Pertussis (Whooping Cough),Infectious Diseases,Moderate,Dr. Hina,Azithromycin + Paracetamol Syrup,250mg + 250mg,7,"Temp: 99F, Respiratory Rate: 28/min",Discharged,No
+PAT012,2024-01-20,15,M,Iron Deficiency Anemia,Non-Communicable,Mild,Dr. Bilal,Iron Supplement + Folic Acid,325mg + 5mg,60,"Hemoglobin: 8.5g/dL, BP: 105/65",Scheduled Revisit,No
+PAT013,2024-01-21,5,M,Protein-Energy Malnutrition,Non-Communicable,Mild,Dr. Leila,Nutrition Counseling + Vitamins,Supplements,30,"Weight: 12kg (below 3rd percentile), BP: 90/50",Nutritionist Referral,No
+PAT014,2024-01-21,38,F,Urinary Tract Infection,Infectious Diseases,Mild,Dr. Omar,Ciprofloxacin + Paracetamol,500mg + 500mg,7,"BP: 115/75, Temp: 99.5F",Discharged,No
+PAT015,2024-01-22,56,M,GERD with HTN,Non-Communicable,Mild,Dr. Nadia,Omeprazole + Amlodipine,20mg + 5mg,30,"BP: 140/85, HR: 76",Lifestyle Counseling,No
+PAT016,2024-01-22,4,F,Pneumonia,Respiratory,Severe,Dr. Samia,Ceftriaxone IV + Salbutamol,2g + Inhaler,7,"BP: 100/60, SpO2: 84%, Temp: 102.8F","Referred to Medicine Ward",Yes
+PAT017,2024-01-23,44,M,Acute Bronchitis,Respiratory,Moderate,Dr. Jamal,Azithromycin + Salbutamol + Paracetamol,500mg + Inhaler + 500mg,7,"BP: 120/75, SpO2: 96%, Temp: 99.8F",Discharged,No
+PAT018,2024-01-23,26,F,Dengue Fever (Confirmed),Infectious Diseases,Moderate,Dr. Yousaf,Paracetamol + Fluid,500mg + IV,5,"BP: 105/65, Dengue NS1: Positive, HR: 98","Referred for Monitoring",Yes
+PAT019,2024-01-24,60,M,Typhoid Fever,Infectious Diseases,Moderate,Dr. Hida,Cefixime + Paracetamol,400mg + 500mg,14,"BP: 115/70, Temp: 101.5F, Widal Reaction: Positive",Admitted,Yes
+PAT020,2024-01-24,12,F,Acute Tonsillitis,Respiratory,Mild,Dr. Kamal,Amoxicillin + Paracetamol Syrup,250mg + 250mg,7,"Temp: 100.5F, BP: 110/65, Throat: Inflamed",Discharged,No
